@@ -1,0 +1,12 @@
+W:a6a5
+B:a3a4
+B:a4a6
+B:a6a8
+B:a8g8
+B:a8d8
+B:d8f8
+B:f8c8
+B:c8h8
+B:c8a8
+B:a8a1
+B:a1d1
